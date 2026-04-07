@@ -1,0 +1,8 @@
+target/
+bin/
+*.class
+*.jar
+*.log
+.DS_Storey
+
+
